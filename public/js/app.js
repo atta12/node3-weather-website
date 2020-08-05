@@ -1,4 +1,3 @@
-console.log('Client Side JAvascript File is added')
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 //     response.json().then((data) => {
